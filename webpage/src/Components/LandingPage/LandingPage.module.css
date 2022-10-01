@@ -1,0 +1,141 @@
+h1 {
+  font-size: 45px;
+  text-align: left;
+
+}
+
+h2 {
+  font-size: 40px;
+  text-align: left;
+
+
+}
+h3 {
+  text-align: left;
+  font-weight: bold;
+}
+h4 {
+  font-size: 26px;
+  margin-bottom: 0;
+  text-align: left;
+
+}
+
+p {
+  font-size: 24px;
+  font-weight: 500;
+
+  text-align: left;
+
+}
+
+ul {
+  list-style: none;
+}
+
+span {
+  /* color: #ccdeda; */
+  color: white;
+  font-weight: bold;
+
+}
+
+.color_grey {
+  color: gray;
+}
+.borders {
+  border: 2px solid #44bc89;
+  border-radius: 25px;
+  padding: 10px;
+  text-transform: lowercase;
+
+  text-align: center;
+}
+
+ul li p{
+  width: 254px;
+  margin: 10px;
+  border: 2px solid #44bc89;
+  border-radius: 25px;
+  padding: 10px;
+  text-transform: lowercase;
+  text-align: center;
+  font-size: 22px;
+}
+
+
+
+.background {
+  background: url(../../assets/gradient.svg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+ 
+}
+
+
+.mainsection {
+ height: 100%;
+ margin: 10% 0;
+ padding-top: 10%;
+
+}
+
+.carousel a{
+ display: none;
+}
+
+.card {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+.background2 {
+  background: #46be8c;
+  width: 100%;
+}
+
+.background3 {
+  background: #3cab7c;
+  width: 100%;
+}
+
+.borders2 {
+  border: 2px solid #ccdeda;
+  color: white;
+  border-radius: 25px;
+  padding: 10px;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+.background4 {
+  background: #3cab7c;
+  width: 100%;
+}
+
+.values h3{
+ color: #44bc89;
+}
+
+.values p{
+  text-align: center;
+ }
+
+ .accordion_text {
+  text-align: left!important;
+ }
+
+ .accordion_text li{
+  text-align: left!important;
+ }
+
+ .accordion_title {
+  font-weight: 700;
+ }
+ .accordion_title button  {
+ color: #44bc89;
+
+ }
